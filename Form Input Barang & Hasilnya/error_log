@@ -1,0 +1,46 @@
+[19-Aug-2021 02:02:43 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/phoenixo/public_html/testa/koneksi.php on line 2
+[19-Aug-2021 02:05:14 UTC] PHP Notice:  Undefined variable: query in /home/phoenixo/public_html/testa/barang.php on line 3
+[19-Aug-2021 02:05:14 UTC] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, null given in /home/phoenixo/public_html/testa/barang.php on line 3
+[19-Aug-2021 02:05:14 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/phoenixo/public_html/testa/koneksi.php on line 2
+[19-Aug-2021 02:05:14 UTC] PHP Notice:  Use of undefined constant mysql_close - assumed 'mysql_close' in /home/phoenixo/public_html/testa/barang.php on line 29
+[19-Aug-2021 02:05:54 UTC] PHP Notice:  Undefined variable: query in /home/phoenixo/public_html/testa/barang.php on line 8
+[19-Aug-2021 02:05:54 UTC] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, null given in /home/phoenixo/public_html/testa/barang.php on line 8
+[19-Aug-2021 02:05:54 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/phoenixo/public_html/testa/koneksi.php on line 2
+[19-Aug-2021 02:05:54 UTC] PHP Notice:  Use of undefined constant mysql_close - assumed 'mysql_close' in /home/phoenixo/public_html/testa/barang.php on line 34
+[19-Aug-2021 02:07:34 UTC] PHP Notice:  Undefined variable: query in /home/phoenixo/public_html/testa/barang.php on line 8
+[19-Aug-2021 02:07:34 UTC] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, null given in /home/phoenixo/public_html/testa/barang.php on line 8
+[19-Aug-2021 02:07:34 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/phoenixo/public_html/testa/koneksi.php on line 2
+[19-Aug-2021 02:07:34 UTC] PHP Notice:  Use of undefined constant mysql_close - assumed 'mysql_close' in /home/phoenixo/public_html/testa/barang.php on line 34
+[19-Aug-2021 02:08:00 UTC] PHP Notice:  Undefined variable: query in /home/phoenixo/public_html/testa/barang.php on line 8
+[19-Aug-2021 02:08:00 UTC] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, null given in /home/phoenixo/public_html/testa/barang.php on line 8
+[19-Aug-2021 02:08:00 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/phoenixo/public_html/testa/koneksi.php on line 2
+[19-Aug-2021 02:08:00 UTC] PHP Notice:  Use of undefined constant mysql_close - assumed 'mysql_close' in /home/phoenixo/public_html/testa/barang.php on line 34
+[19-Aug-2021 02:08:52 UTC] PHP Notice:  Undefined variable: query in /home/phoenixo/public_html/testa/barang.php on line 8
+[19-Aug-2021 02:08:52 UTC] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, null given in /home/phoenixo/public_html/testa/barang.php on line 8
+[19-Aug-2021 02:08:52 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/phoenixo/public_html/testa/koneksi.php on line 2
+[19-Aug-2021 02:08:52 UTC] PHP Notice:  Use of undefined constant mysql_close - assumed 'mysql_close' in /home/phoenixo/public_html/testa/barang.php on line 34
+[19-Aug-2021 02:08:59 UTC] PHP Notice:  Undefined variable: query in /home/phoenixo/public_html/testa/barang.php on line 8
+[19-Aug-2021 02:08:59 UTC] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, null given in /home/phoenixo/public_html/testa/barang.php on line 8
+[19-Aug-2021 02:08:59 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/phoenixo/public_html/testa/koneksi.php on line 2
+[19-Aug-2021 02:08:59 UTC] PHP Notice:  Use of undefined constant mysql_close - assumed 'mysql_close' in /home/phoenixo/public_html/testa/barang.php on line 34
+[19-Aug-2021 02:12:04 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/phoenixo/public_html/testa/koneksi.php on line 2
+[19-Aug-2021 02:13:24 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/phoenixo/public_html/testa/koneksi.php on line 2
+[19-Aug-2021 02:18:25 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/phoenixo/public_html/testa/koneksi.php on line 2
+[19-Aug-2021 02:18:26 UTC] PHP Notice:  Undefined variable: query in /home/phoenixo/public_html/testa/barang.php on line 8
+[19-Aug-2021 02:18:26 UTC] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, null given in /home/phoenixo/public_html/testa/barang.php on line 8
+[19-Aug-2021 02:18:26 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/phoenixo/public_html/testa/koneksi.php on line 2
+[19-Aug-2021 02:18:26 UTC] PHP Notice:  Use of undefined constant mysql_close - assumed 'mysql_close' in /home/phoenixo/public_html/testa/barang.php on line 34
+[19-Aug-2021 02:41:55 UTC] PHP Notice:  Undefined variable: query in /home/phoenixo/public_html/testa/barang.php on line 8
+[19-Aug-2021 02:41:55 UTC] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, null given in /home/phoenixo/public_html/testa/barang.php on line 8
+[19-Aug-2021 02:41:55 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/phoenixo/public_html/testa/koneksi.php on line 2
+[19-Aug-2021 02:41:55 UTC] PHP Notice:  Use of undefined constant mysql_close - assumed 'mysql_close' in /home/phoenixo/public_html/testa/barang.php on line 34
+[19-Aug-2021 02:43:10 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/phoenixo/public_html/testa/koneksi.php on line 2
+[19-Aug-2021 02:43:13 UTC] PHP Notice:  Undefined variable: query in /home/phoenixo/public_html/testa/barang.php on line 8
+[19-Aug-2021 02:43:13 UTC] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, null given in /home/phoenixo/public_html/testa/barang.php on line 8
+[19-Aug-2021 02:43:13 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/phoenixo/public_html/testa/koneksi.php on line 2
+[19-Aug-2021 02:43:13 UTC] PHP Notice:  Use of undefined constant mysql_close - assumed 'mysql_close' in /home/phoenixo/public_html/testa/barang.php on line 34
+[19-Aug-2021 02:43:15 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/phoenixo/public_html/testa/koneksi.php on line 2
+[19-Aug-2021 02:43:24 UTC] PHP Notice:  Undefined variable: query in /home/phoenixo/public_html/testa/barang.php on line 8
+[19-Aug-2021 02:43:24 UTC] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, null given in /home/phoenixo/public_html/testa/barang.php on line 8
+[19-Aug-2021 02:43:24 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/phoenixo/public_html/testa/koneksi.php on line 2
+[19-Aug-2021 02:43:24 UTC] PHP Notice:  Use of undefined constant mysql_close - assumed 'mysql_close' in /home/phoenixo/public_html/testa/barang.php on line 34
